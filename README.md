@@ -23,7 +23,7 @@ All code in this repository is available under the MIT License. This means anyon
 ```md
 MIT License
 
-Copyright (c) [Year] [Your Name]
+Copyright (c) 2024 Nasser Eledroos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
