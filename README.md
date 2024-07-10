@@ -1,18 +1,18 @@
 # visionOS 30 Day Challenge
 By Nasser Eledroos
-nassereledroos@protonmail.com
+nassers@protonmail.com
 
 ## Overview
 Welcome to my visionOS 30 Day Challenge! In this challenge, I'll be exploring visionOS by creating a new project every day for the next 30 days. The goal is to learn and experiment with the capabilities of visionOS, developing a variety of applications ranging from simple utilities to more complex interfaces and interactions.
 
 I'll be designing the challenges day-by-day based on what I'm curious about or what skills I want to develop further. This means the project scope might evolve as the challenge progresses. You won't find these challenges prescribed in advance.
 
-## Daily Log
+## Log
 
 | Day | Project | Description | Link |
 |-----|---------|-------------|------|
 | 1   | **Destination: Mars** | Based on a design on [dribble](https://dribbble.com/shots/23786433-Cosmic-Horizon-visionOS), I just wanted to get familiar with ImmersiveView, ContentView and using SwiftUI in a spatial context. | [Code](https://github.com/eledroos/visionOS-Lessons/tree/main/Day%201) |
-| 2   | Combins soon. | - | [Code](#) |
+| 2   | Coming soon. | - | [Code](#) |
 
 *Note: The table will be updated daily as the challenge progresses.*
 
